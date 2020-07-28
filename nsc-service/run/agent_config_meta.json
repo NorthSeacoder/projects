@@ -1,0 +1,259 @@
+{
+  "keys": "/Users/yqg/personal/projects/nsc-service/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/yqg/personal/projects/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/yqg/personal/projects/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/yqg/personal/projects/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/yqg/personal/projects/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/yqg/personal/projects/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/yqg/personal/projects/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/yqg/personal/projects/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/yqg/personal/projects/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/yqg/personal/projects/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/yqg/personal/projects/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/yqg/personal/projects/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/yqg/personal/projects/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/yqg/personal/projects/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/yqg/personal/projects/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/yqg/personal/projects/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/yqg/personal/projects/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/yqg/personal/projects/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/yqg/personal/projects/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/yqg/personal/projects/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/yqg/personal/projects/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/yqg/personal/projects/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/yqg/personal/projects/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/yqg/personal/projects/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/yqg/personal/projects/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/yqg/personal/projects/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/yqg/personal/projects/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/yqg/personal/projects/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/yqg/personal/projects/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/yqg/personal/projects/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/yqg/personal/projects/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/yqg/personal/projects/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/yqg/personal/projects/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/yqg/personal/projects/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/yqg/personal/projects/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/yqg/personal/projects/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/yqg/personal/projects/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/yqg/personal/projects/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/yqg/personal/projects/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/yqg/personal/projects/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/yqg/personal/projects/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/yqg/personal/projects/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/yqg/personal/projects/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/yqg/personal/projects/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/yqg/personal/projects/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/yqg/personal/projects/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/yqg/personal/projects/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/yqg/personal/projects/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/yqg/personal/projects/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/yqg/personal/projects/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/yqg/personal/projects/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/yqg/personal/projects/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/yqg/personal/projects/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/yqg/personal/projects/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/yqg/personal/projects/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/yqg/personal/projects/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/yqg/personal/projects/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/yqg/personal/projects/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/yqg/personal/projects/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "name": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "version": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "description": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "main": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "test": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+      "dev": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+    },
+    "keywords": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "author": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "license": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "strict": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+      "depth": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "env": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "level": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/yqg/personal/projects/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "logging": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+      "port": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/yqg/personal/projects/node_modules/egg/config/config.default.js"
+}

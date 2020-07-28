@@ -1,0 +1,27 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorthSeacoder/projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NorthSeacoder/projects/issues"
+  },
+  "homepage": "https://github.com/NorthSeacoder/projects#readme",
+  "dependencies": {
+    "@nsea/tools": "^1.0.0",
+    "egg": "^2.27.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.15.0"
+  }
+}

@@ -1,0 +1,9 @@
+2020-07-23 19:44:05,510 INFO 36372 [Timer] /Users/yqg/personal/projects/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 31554509ms at 2020-07-24 04:30:00.017
+2020-07-23 19:44:05,543 INFO 36374 [Job#15955046454791870834923517861] /Users/yqg/personal/projects/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2020-07-23 19:44:05,697 INFO 36374 [Job#15955046454791870834923517861] /Users/yqg/personal/projects/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 135ms
+2020-07-24 11:46:45,011 INFO 36372 [Timer] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43995112ms at 2020-07-25 00:00:00.122
+2020-07-24 11:46:44,964 INFO 36374 [Job#15955624048482024382538612352] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2020-07-24 11:46:45,130 INFO 36374 [Job#15955624048482024382538612352] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 151ms
+2020-07-24 11:46:45,820 INFO 36374 [Job#15955624058152024392094997962] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-07-24 11:46:45,830 INFO 36374 [Job#15955624058152024392094997962] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 9ms
+2020-07-24 11:46:45,821 INFO 36372 [Timer] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43995183ms at 2020-07-25 00:00:01.004

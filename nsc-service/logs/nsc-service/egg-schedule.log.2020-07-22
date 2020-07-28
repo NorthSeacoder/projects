@@ -1,0 +1,12 @@
+2020-07-22 09:40:58,862 INFO 36372 [Timer] /Users/yqg/personal/projects/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 67741141ms at 2020-07-23 04:30:00.003
+2020-07-22 09:40:58,862 INFO 36372 [Timer] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 51541138ms at 2020-07-23 00:00:00.000
+2020-07-22 09:40:58,862 INFO 36372 [Timer] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 51542138ms at 2020-07-23 00:00:01.000
+2020-07-22 09:40:58,740 INFO 36374 [egg-schedule]: register schedule /Users/yqg/personal/projects/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-07-22 09:40:58,741 INFO 36374 [egg-schedule]: register schedule /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-07-22 09:40:58,741 INFO 36374 [egg-schedule]: register schedule /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-07-23 15:14:05,385 INFO 36372 [Timer] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31554645ms at 2020-07-24 00:00:00.028
+2020-07-23 15:14:05,455 INFO 36374 [Job#15954884453291708835315506031] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2020-07-23 15:14:05,553 INFO 36374 [Job#15954884453291708835315506031] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 62ms
+2020-07-23 15:14:06,287 INFO 36374 [Job#15954884462841708844833092701] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-07-23 15:14:06,320 INFO 36374 [Job#15954884462841708844833092701] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 33ms
+2020-07-23 15:14:06,290 INFO 36372 [Timer] /Users/yqg/personal/projects/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31554716ms at 2020-07-24 00:00:01.006
